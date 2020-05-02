@@ -1,1 +1,1 @@
-using some jekyll theme.
+where devtsec members write their ideas.
